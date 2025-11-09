@@ -1,0 +1,26 @@
+state={
+	id=1024
+	name="STATE_1024"
+	provinces={
+		12705 11972 6999 4431 4141 9939 1893 11865 10144 7948 4041
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+	history={
+		owner = CQQ
+		add_core_of = CHI
+		add_core_of = PRC
+		victory_points = {
+			
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		
+
+	}
+
+	local_supplies=1.0 
+}

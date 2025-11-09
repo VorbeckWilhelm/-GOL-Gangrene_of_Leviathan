@@ -1,0 +1,26 @@
+state={
+	id=1029
+	name="STATE_1029" #张家口
+	provinces={
+		828 1489 7674 4495
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+	history={
+		owner = MON
+		add_core_of = CHI
+		add_core_of = PRC
+		victory_points = {
+			1489 3
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		
+
+	}
+
+	local_supplies=1.0 
+}

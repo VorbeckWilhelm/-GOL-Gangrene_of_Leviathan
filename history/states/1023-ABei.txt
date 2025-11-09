@@ -1,0 +1,33 @@
+state={
+	id=1023
+	name="STATE_1023"
+	provinces={
+		10903 9966 4375 1257
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+	history={
+		owner = SCN
+		add_core_of = CHI
+		add_core_of = PRC
+		victory_points = {
+			9966 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 1
+				infrastructure = 1
+
+			}
+
+		}
+
+	}
+
+	local_supplies=1.0 
+}

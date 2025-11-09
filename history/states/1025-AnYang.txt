@@ -1,0 +1,26 @@
+state={
+	id=1025
+	name="STATE_1025"
+	provinces={
+		4606 1139 4114 4144 7074
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+	history={
+		owner = HBQ
+		add_core_of = CHI
+		add_core_of = PRC
+		victory_points = {
+			
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		
+
+	}
+
+	local_supplies=1.0 
+}

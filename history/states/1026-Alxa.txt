@@ -1,0 +1,26 @@
+state={
+	id=1026
+	name="STATE_1026" #阿拉善
+	provinces={
+		4783 10770 10899 7803 12750
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+	history={
+		owner = MON
+		add_core_of = CHI
+		add_core_of = PRC
+		victory_points = {
+			10899 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		
+
+	}
+
+	local_supplies=1.0 
+}

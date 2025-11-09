@@ -1,0 +1,28 @@
+
+state={
+	id=611
+	name="STATE_611" # South Chahar
+	manpower = 1470000
+	
+	state_category = pastoral
+
+	history={
+		owner = HBQ
+		add_core_of = MEN
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			10397 4
+		}
+	}
+
+	provinces={
+		 952  1590   6904   9776 10397  
+	}
+
+	local_supplies=0.0 
+}

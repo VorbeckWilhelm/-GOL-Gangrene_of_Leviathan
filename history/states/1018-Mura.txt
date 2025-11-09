@@ -1,0 +1,31 @@
+state={
+	id=1018
+	name="STATE_1018" # Mura 穆拉
+	manpower = 1915600
+	
+	state_category = city
+	resources={
+		steel=42 #was 100 # was: 236
+	}
+
+	history={
+		owner = AUS
+		victory_points = { 6672 1 }
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			anti_air_building = 5
+			air_base = 5
+
+		}
+		add_core_of = AUS
+		add_core_of = SLV
+	}
+
+	provinces={
+		665 6672
+	}
+
+	local_supplies=14.0 
+}

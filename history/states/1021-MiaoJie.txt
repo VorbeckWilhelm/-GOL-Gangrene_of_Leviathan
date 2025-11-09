@@ -1,0 +1,26 @@
+state={
+	id=1021
+	name="STATE_1021" #庙街
+	manpower = 322600
+	
+	state_category = rural
+	
+	resources={
+		chromium=7 # was: 10
+	}
+
+	history={
+		owner = MAN
+		
+		victory_points = { 12559 1 }
+		add_core_of = CHI
+		add_core_of = PRC
+		add_core_of = MAN
+	}
+
+	provinces={
+		7748 12569 12638 9659 4290 4844 3664 10571 12559
+	}
+
+	local_supplies=9.0 
+}

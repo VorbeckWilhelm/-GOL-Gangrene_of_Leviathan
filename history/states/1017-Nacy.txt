@@ -1,0 +1,33 @@
+state={
+	id=1017
+	name="STATE_1017" # nacy 南锡
+	manpower = 1915600
+	
+	state_category = city
+	resources={
+		steel=42 #was 100 # was: 236
+	}
+
+	history={
+		owner = GER
+		#victory_points = { 6529 1 }
+		#victory_points = { 549 1 }
+		#victory_points = { 678 5 }
+		#victory_points = { 9503 5 }
+		victory_points = { 11516 3 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			anti_air_building = 5
+			air_base = 5
+
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		3560 5291 11516 521
+	}
+
+	local_supplies=14.0 
+}

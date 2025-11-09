@@ -1,0 +1,25 @@
+state={
+	id=1022
+	name="STATE_1022" #天津
+	manpower = 322600
+	
+	state_category = city
+	
+	resources={
+		chromium=7 # was: 10
+	}
+
+	history={
+		owner = HBQ	
+		
+		victory_points = { 4137 5 }
+		add_core_of = CHI
+		add_core_of = PRC
+	}
+
+	provinces={
+		4137
+	}
+
+	local_supplies=9.0 
+}

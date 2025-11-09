@@ -1,0 +1,30 @@
+state={
+	id=1020
+	name="STATE_1020" #阿克赛钦
+	manpower = 322600
+	
+	state_category = rural
+	
+	resources={
+		chromium=7 # was: 10
+	}
+
+	history={
+		owner = SIK
+		buildings = {
+			infrastructure = 1
+			dockyard = 1
+		}
+		victory_points = { 5042 1 }
+		add_core_of = CHI
+		add_core_of = PRC
+		add_core_of = RAJ
+		add_core_of = SIK
+	}
+
+	provinces={
+		10821 5042 7273
+	}
+
+	local_supplies=9.0 
+}

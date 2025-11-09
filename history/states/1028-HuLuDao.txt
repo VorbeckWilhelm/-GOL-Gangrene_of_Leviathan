@@ -1,0 +1,26 @@
+state={
+	id=1028
+	name="STATE_1028" #葫芦岛
+	provinces={
+		9835 6837 11886 3900
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+	history={
+		owner = HBQ
+		add_core_of = CHI
+		add_core_of = PRC
+		victory_points = {
+			11886 3
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		
+
+	}
+
+	local_supplies=1.0 
+}
