@@ -1,0 +1,34 @@
+state = {
+	id = 1032
+	name = "STATE_1032" #刘易斯州（原型刘易斯顿）
+	manpower = 45900
+	
+	state_category = pastoral
+	
+	resources = {
+		tungsten = 3 # was: 4
+		steel = 2 # was: 2
+	}
+
+	history = {
+
+		owner = USA
+		add_core_of = USA
+
+		buildings = {
+			infrastructure = 1
+		}
+
+		victory_points = {
+			12673 3
+		}
+
+		
+	}
+	
+	provinces = {
+		4826 7865 12553 10687 4778 3781 4747 10327 1690 12673 12124 1832 10693
+	}
+
+	local_supplies = 0.0 
+}

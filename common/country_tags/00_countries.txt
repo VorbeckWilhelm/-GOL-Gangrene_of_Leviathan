@@ -344,6 +344,7 @@ BLC = "countries/Balochistan.txt"
 BCV = "countries/Bucovina.txt" #
 CAU = "countries/Caucas.txt" #高加索
 TRK = "countries/Turkeistan.txt" #突厥斯坦
+CAL = "countries/California" #加利福尼亚
 
 
 #中国
