@@ -1,31 +1,35 @@
-
 state = {
-	id = 487
-	name = "STATE_487"
-	manpower = 334500
+	id = 1031
+	name = "STATE_1031" #圣克鲁斯
+	manpower = 45900
 	
 	state_category = pastoral
+	
+	resources = {
+		tungsten = 3 # was: 4
+		steel = 2 # was: 2
+	}
 
 	history = {
 
-		owner = BOL
+		owner = PAR
+		add_core_of = PAR
 		add_core_of = BOL
 
 		buildings = {
 			infrastructure = 1
-			industrial_complex = 1
 		}
 
 		victory_points = {
-			12973 3 
+			12902 3
 		}
+
 		
 	}
-
-	provinces = {
-		 5188 8211 8240 10924 10982 10996 12917 12973 
-	}
 	
+	provinces = {
+		 12902 12916
+	}
 
 	local_supplies = 0.0 
 }

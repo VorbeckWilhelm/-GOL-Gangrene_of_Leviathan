@@ -12,12 +12,15 @@ state = {
 
 	history = {
 
-		owner = ENG
+		owner = SPR
 		add_core_of = ZAM
 		add_core_of = BAR
 
 		victory_points = {
 			697 1 # Mongu
+		}
+		victory_points = {
+			5199 2 #Lusaka
 		}
 
 		buildings = {
@@ -26,7 +29,7 @@ state = {
 	}
 
 	provinces = {
-		697 7872 10538 12677
+		697 7872 10538 12677 5199 12504
 	}
 	
 	buildings_max_level_factor = 1.000
