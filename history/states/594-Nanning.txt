@@ -25,9 +25,7 @@ state = {
 			}
 		}
 
-		victory_points = { 
-			7137 10 # Nanning
-		}
+		
 
 		1938.10.25 = {
 			if = {

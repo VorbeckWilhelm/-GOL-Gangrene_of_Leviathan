@@ -25,10 +25,6 @@ state = {
 			#10327 = { dam = 1 }
 
 		}
-		
-		victory_points = {
-			1690 1 # Spokane
-		}
 
 		victory_points = {
 			7315 10 # Seattle
