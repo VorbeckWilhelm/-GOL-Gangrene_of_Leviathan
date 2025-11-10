@@ -12,7 +12,7 @@ state = {
 
 	history = {
 
-		owner = USA
+		owner = LWS
 		add_core_of = USA
 
 		buildings = {

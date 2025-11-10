@@ -1,3 +1,4 @@
+#欧洲
 GER	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"
 SOV = "countries/Soviet Union.txt"
@@ -10,7 +11,7 @@ CZE	= "countries/Czechoslovakia.txt"
 POL	= "countries/Poland.txt"
 AUS	= "countries/Austria.txt"
 LIT	= "countries/Lithuania.txt"
-EST	= "countries/Estonia.txt"
+EST	= "countries/Estonia.txt" 
 LAT	= "countries/Latvia.txt"
 SPR = "countries/Spain.txt"
 ITA = "countries/Italy.txt"
@@ -66,7 +67,7 @@ SIA = "countries/Siam.txt"
 URG = "countries/Uruguay.txt"
 VEN = "countries/Venezula.txt"
 
-USA = "countries/USA.txt"
+
 
 TAN = "countries/Tannu Tuva.txt"
 PAR = "countries/Paraguay.txt"
@@ -170,7 +171,7 @@ SEN = "countries/Senegal.txt"
 GAM = "countries/Gambia.txt"
 WLS = "countries/Wales.txt"
 NGR = "countries/Niger.txt"
-CSA = "countries/CSA.txt"
+
 USB = "countries/USB.txt"#neutral US bloc during civil war in MTG
 MRT = "countries/Mauritania.txt"
 NMB = "countries/Namibia.txt"
@@ -340,14 +341,14 @@ BHR = "countries/Bahrain.txt"
 IMO = "countries/Omani Imamate.txt"
 BLC = "countries/Balochistan.txt"
 
-#MOD加的
+##MOD加的
 BCV = "countries/Bucovina.txt" #
 CAU = "countries/Caucas.txt" #高加索
 TRK = "countries/Turkeistan.txt" #突厥斯坦
-CAL = "countries/California" #加利福尼亚
 
 
-#中国
+
+##中国
 GXC = "countries/Guangxi.txt" #广西
 GDC = "countries/GuangDong.txt" #广东
 PRC = "countries/ComChina.txt" #脆皮肠
@@ -363,8 +364,23 @@ MON = "countries/Mongolia.txt" #外蒙
 MAN = "countries/Manchukou.txt" #满洲
 SCN = "countries/SiChuan.txt" #四川
 HBC = "countries/HuBei.txt" #湖北
-ANQ = "countries/AnHui.txt"#安徽
+#ANQ = "countries/AnHui.txt"#安徽
 CQQ = "countries/ChongQing.txt"#重庆
 GZC = "countries/GuiZhou.txt"#贵州
 SDC = "countries/ShanDong.txt" #沙东
 HBQ = "countries/HuaBei.txt" #华北
+
+#北美
+USA = "countries/USA.txt" #合众国
+CSA = "countries/CSA.txt" #联盟国
+CAL = "countries/California.txt" #加利福尼亚 （NCR）
+WAT = "countries/Washington.txt" #华盛顿（西百军区）
+ORG = "countries/Oregon.txt" #俄勒冈 (俄勒冈苏↑威→爱↓)
+LWS = "countries/Lewis.txt" #刘易斯（小德意志）
+MTN = "countries/Montana.txt" #蒙大拿（小鹅螺丝）
+IDH = "countries/Idaho.txt" #爱达荷（龟岛共和国）
+NVD = "countries/Nevada.txt" #内华达
+AZN = "countries/Arizona.txt" #亚利桑那（联盟国综合公司）
+OKH = "countries/Oklahoma.txt" #俄克拉荷马（印第安自治州）
+WYM = "countries/Wyoming.txt" #怀俄明 （吉米卡特军区）
+CLR = "countries/Colorado.txt" #科罗拉多 （黑丝淹死军区）
