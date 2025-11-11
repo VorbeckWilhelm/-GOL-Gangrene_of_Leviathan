@@ -28,9 +28,6 @@ ideologies = {
 			liberalism = {
 			}
 
-			socialism = {
-			}
-
 			populism = {
 			}
 		}
@@ -87,11 +84,11 @@ ideologies = {
 	}
 
 
-	communism = {
+	socialism = {
 
 		types = {
 
-			totalitarianism = { #极权主义
+			totalitarianism = { #极权社会主义
 
 			}
 			authoritarian_socialism = { #威权社会主义
@@ -121,19 +118,8 @@ ideologies = {
 			left_wing_populism = { #左翼民粹主义
 
 			}
-			marxism = {
-			}
+			anarchist_communism = { #无治共产主义
 
-			leninism = {
-			}
-
-			stalinism = {
-			}
-
-			anti_revisionism = {
-			}
-
-			anarchist_communism = {
 			}
 		}
 
@@ -213,7 +199,7 @@ ideologies = {
 			mysticism = { #申必主义
 
 			}
-			ultranationalism = { #超民族主义
+			ultra_nationalism = { #超民族主义
 
 			}
 			pure_racism = { #纯净种族主义
@@ -222,7 +208,7 @@ ideologies = {
 			traditional_mysticism = { #传统申必主义
 
 			}
-			Militarism = { #军国主义
+			militarism = { #军国主义
 
 			}
 			agrarian_populism = { #农粹主义
@@ -237,11 +223,11 @@ ideologies = {
 			classical_fascism = { #古典束棒主义
 
 			}
-
 			falangism = { #长枪党主义
-			}
 
-			rexism = {
+			}
+			rexism = { #雷克斯主义
+
 			}
 		}
 
@@ -287,20 +273,47 @@ ideologies = {
 
 		types = {
 
-			despotism  = {
-			}
+			colonial_government = { #殖民政府
 
-			oligarchism  = {
 			}
+			military_government = { #军政府
 
-			anarchism = {
-				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
 			}
+			guided_democracy = { #指导式民主
 
-			moderatism = {
 			}
+			authoritarian_developmentalism = { #威权指导主义
 
-			centrism = {
+			}
+			constitutional_monarchy = { #立宪君主制
+
+			}
+			technocratism = { #技官主义
+
+			}
+			right_wing_populism = { #右翼民粹主义
+
+			}
+			naturalised_nationalism = { #归化民族主义
+
+			}
+			parental_autocracy = { #家长独裁制
+
+			}
+			absolute_monarchy = { #绝对君主制
+
+			}
+			social_credit_system = { #社会信用制度（social credit-10086）
+
+			}
+			monarcho_socialism = { #君主社会主义
+
+			}
+			state_capitalism = { #国家资本主义
+
+			}
+			oligarchism  = { #寡头政治
+
 			}
 		}
 
