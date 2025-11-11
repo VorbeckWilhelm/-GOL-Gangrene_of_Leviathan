@@ -17,8 +17,7 @@ state = {
 		victory_points = {
 			362 10 # Danzig
 		}
-		
-		set_demilitarized_zone = yes
+	
 		
 		buildings = {
 			infrastructure = 3
