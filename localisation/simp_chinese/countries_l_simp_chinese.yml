@@ -1,0 +1,97 @@
+﻿l_simp_chinese:
+GER: "德国"
+GER_DEF: "德国"
+GER_ADJ: "德国"
+GER_third_position: "德意志帝国"
+GER_third_position_DEF: "德意志帝国"
+GER_third_position_ADJ: "德国"
+
+GER_democratic: "德意志帝国"
+GER_democratic_DEF: "德意志帝国"
+GER_democratic_ADJ: "德国"
+
+GER_authoritarianism: "德意志帝国"
+GER_authoritarianism_DEF: "德意志帝国"
+GER_authoritarianism_ADJ: "德国"
+
+GER_socialism: "德意志帝国"
+GER_socialism_DEF: "德意志帝国"
+GER_socialism_ADJ: "德国"
+
+GER_autonomy_supervised_state: "$OVERLORDADJ$占领区"
+GER_autonomy_supervised_state_DEF: "$OVERLORDADJ$占领区"
+GER_autonomy_puppet: "$OVERLORDADJ$属德国"
+GER_autonomy_puppet_DEF: "$OVERLORDADJ$属德国"
+
+
+#: ""
+#_DEF: ""
+#_ADJ: ""
+#_third_position: ""
+#_third_position_DEF: ""
+#_third_position_ADJ: ""
+#_democratic: ""
+#_democratic_DEF: ""
+#_democratic_ADJ: ""
+#_authoritarianism: ""
+#_authoritarianism_DEF: ""
+#_authoritarianism_ADJ: ""
+#_socialism: ""
+#_socialism_DEF: ""
+#_socialism_ADJ: ""
+#_autonomy_supervised_state: "$OVERLORDADJ$占领区"
+#_autonomy_supervised_state_DEF: "$OVERLORDADJ$占领区"
+#_autonomy_puppet: "$OVERLORDADJ$属"
+#_autonomy_puppet_DEF: "$OVERLORDADJ$属"
+
+
+ENG: "英国"
+ENG_DEF: "英国"
+ENG_ADJ: "英国"
+ENG_third_position: "联合王国"
+ENG_third_position_DEF: "联合王国"
+ENG_third_position_ADJ: "英国"
+ENG_democratic: "联合王国"
+ENG_democratic_DEF: "联合王国"
+ENG_democratic_ADJ: "英国"
+ENG_authoritarianism: "联合王国"
+ENG_authoritarianism_DEF: "联合王国"
+ENG_authoritarianism_ADJ: "英国"
+ENG_socialism: "联合王国"
+ENG_socialism_DEF: "联合王国"
+ENG_socialism_ADJ: "英国"
+ENG_autonomy_supervised_state: "$OVERLORDADJ$占领区"
+ENG_autonomy_supervised_state_DEF: "$OVERLORDADJ$占领区"
+ENG_autonomy_puppet: "$OVERLORDADJ$属"
+ENG_autonomy_puppet_DEF: "$OVERLORDADJ$属"
+
+SOV:
+SWE:
+FRA:
+DEN:
+BUL:
+POR:
+FIN:
+IRE:
+HUN:
+BEL:
+HOL:
+CZE:
+POL:
+AUS:
+LIT:
+EST:
+LAT:
+SPR:
+ITA:
+ROM:
+SER:
+SWI:
+TUR:
+GRE:
+ALB:
+BCV:
+MOL:
+BLR:
+BOS:
+UKR:
